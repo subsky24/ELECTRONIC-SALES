@@ -204,5 +204,5 @@ Avoid over-reliance on YoY % alone.
 
 Always evaluate growth metrics alongside absolute sales values to prevent misinterpretation.
 
-##
+## https://github.com/subsky24/ELECTRONIC-SALES/blob/main/IMAGES/Screenshot%20(301).png
 
