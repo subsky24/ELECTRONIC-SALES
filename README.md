@@ -203,5 +203,6 @@ Apply successful strategies selectively to weaker regions.
 Avoid over-reliance on YoY % alone.
 
 Always evaluate growth metrics alongside absolute sales values to prevent misinterpretation.
-<img width="849" height="478" alt="Screenshot (297)" src="https://github.com/user-attachments/assets/beb8f6f4-30c6-4c20-bc99-8af85e084d23" />
+
+##
 
