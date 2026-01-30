@@ -151,6 +151,8 @@ Context-aware calculations using CALCULATE
 
 Proper use of date context with a dedicated Date Table
 
+![image-URL](https://github.com/subsky24/ELECTRONIC-SALES/blob/main/IMAGES/Screenshot%20(331).png?raw=true)
+
 These measures enabled accurate trend comparison and avoided misleading growth interpretations.
 
 Dashboard
