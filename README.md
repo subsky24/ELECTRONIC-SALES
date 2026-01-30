@@ -133,6 +133,8 @@ Sales SPLY (Same Period Last Year)
 
 YoY Variance
 
+![image-URL](https://github.com/subsky24/ELECTRONIC-SALES/blob/main/IMAGES/Screenshot%20(329).png?raw=true)
+
 YoY Variance %
 
 Sales Last Month
