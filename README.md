@@ -104,6 +104,9 @@ Total Sales
 
 Total Profit
 
+
+
+
 Total Order Quantity
 
 Profit Margin %
