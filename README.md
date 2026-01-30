@@ -104,7 +104,7 @@ Total Sales
 
 Total Profit
 
-
+![image-URL](https://github.com/subsky24/ELECTRONIC-SALES/blob/main/IMAGES/Screenshot%20(322).png?raw=true)
 
 
 Total Order Quantity
