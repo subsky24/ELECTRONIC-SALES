@@ -115,6 +115,10 @@ Time Intelligence Measures
 
 Sales YTD
 
+Sales MTD
+
+![image-URL](https://github.com/subsky24/ELECTRONIC-SALES/blob/main/IMAGES/Screenshot%20(324).png?raw=true)
+
 Sales QTD
 
 Sales SPLY (Same Period Last Year)
