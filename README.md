@@ -153,6 +153,10 @@ Proper use of date context with a dedicated Date Table
 
 These measures enabled accurate trend comparison and avoided misleading growth interpretations.
 
+Dashboard
+
+https://github.com/user-attachments/assets/3d29727b-4bb7-4946-9581-569e615b2dc7
+
 📈 KEY INSIGHTS & FINDINGS
 Time & Growth Insights
 
