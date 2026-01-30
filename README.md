@@ -125,6 +125,8 @@ YoY Variance %
 
 Sales Last Month
 
+![image-URL](https://github.com/subsky24/ELECTRONIC-SALES/blob/main/IMAGES/Screenshot%20(323).png?raw=true)
+
 Supporting Measures
 
 Dynamic variance color logic (positive = green, negative = red)
