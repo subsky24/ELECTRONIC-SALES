@@ -115,7 +115,7 @@ Time Intelligence Measures
 
 Sales YTD
 
-
+![image-URL](https://github.com/subsky24/ELECTRONIC-SALES/blob/main/IMAGES/Screenshot%20(327).png?raw=true)
 
 Sales MTD
 
