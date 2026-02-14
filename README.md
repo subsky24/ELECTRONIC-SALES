@@ -99,6 +99,7 @@ Validated data ranges to avoid incorrect time intelligence results
 
 🧮 DAX MEASURES USED
 
+![image-URL](https://github.com/subsky24/ELECTRONIC-SALES/blob/main/IMAGES/Screenshot%20(372).png?raw=true)
 
 
 Dashboard
