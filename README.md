@@ -98,62 +98,8 @@ Zones
 Validated data ranges to avoid incorrect time intelligence results
 
 🧮 DAX MEASURES USED
-Core Measures
-
-Total Sales
-
-![image-URL](https://github.com/subsky24/ELECTRONIC-SALES/blob/main/IMAGES/Screenshot%20(328).png?raw=true)
-
-Total Profit
-
-![image-URL](https://github.com/subsky24/ELECTRONIC-SALES/blob/main/IMAGES/Screenshot%20(322).png?raw=true)
 
 
-Total Order Quantity
-
-Profit Margin %
-
-Time Intelligence Measures
-
-Sales YTD
-
-![image-URL](https://github.com/subsky24/ELECTRONIC-SALES/blob/main/IMAGES/Screenshot%20(327).png?raw=true)
-
-Sales MTD
-
-![image-URL](https://github.com/subsky24/ELECTRONIC-SALES/blob/main/IMAGES/Screenshot%20(324).png?raw=true)
-
-Sales QTD
-
-![image-URL](https://github.com/subsky24/ELECTRONIC-SALES/blob/main/IMAGES/Screenshot%20(325).png?raw=true)
-
-Sales SPLY (Same Period Last Year)
-
-![image-URL](https://github.com/subsky24/ELECTRONIC-SALES/blob/main/IMAGES/Screenshot%20(326).png?raw=true)
-
-YoY Variance
-
-![image-URL](https://github.com/subsky24/ELECTRONIC-SALES/blob/main/IMAGES/Screenshot%20(329).png?raw=true)
-
-YoY Variance %
-
-![image-URL](https://github.com/subsky24/ELECTRONIC-SALES/blob/main/IMAGES/Screenshot%20(330).png?raw=true)
-
-Sales Last Month
-
-![image-URL](https://github.com/subsky24/ELECTRONIC-SALES/blob/main/IMAGES/Screenshot%20(323).png?raw=true)
-
-Supporting Measures
-
-Dynamic variance color logic (positive = green, negative = red)
-
-Context-aware calculations using CALCULATE
-
-Proper use of date context with a dedicated Date Table
-
-![image-URL](https://github.com/subsky24/ELECTRONIC-SALES/blob/main/IMAGES/Screenshot%20(331).png?raw=true)
-
-These measures enabled accurate trend comparison and avoided misleading growth interpretations.
 
 Dashboard
 
